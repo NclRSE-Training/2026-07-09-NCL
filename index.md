@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Newcastle University"
-description: "Henry Daysh Building, PC Cluster R1.14"
+description: "Henry Daysh Building, PC Cluster 1.14"
 country: "gb"
 language: "en"
 latitude: "54.980533"
@@ -151,7 +151,7 @@ address.
 {% if page.latitude and page.longitude and online == "false" %}
 <p id="where">
   <strong>Where:</strong>
-  {{page.address}}.
+  {{page.description}}.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
