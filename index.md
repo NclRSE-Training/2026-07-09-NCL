@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Newcastle University"
-description: "Henry Daysh Building, PC Cluster 1.14"
+description: "Henry Daysh Building, PC Cluster 1.12"
 country: "gb"
 language: "en"
 latitude: "54.980533"
